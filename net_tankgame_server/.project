@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>net_tankgame_server</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>gson</name>
+			<type>2</type>
+			<location>C:/Users/Zhao/Desktop/gson-gson-parent-2.9.1/gson</location>
+		</link>
+		<link>
+			<name>gsonsrc</name>
+			<type>2</type>
+			<location>C:/Users/Zhao/Desktop/gson-gson-parent-2.9.1/gson/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
