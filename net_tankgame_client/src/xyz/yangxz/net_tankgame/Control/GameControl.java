@@ -40,8 +40,7 @@ public class GameControl implements Runnable{
 		this.wardata=wardata;
 		new Thread(new ShutControl()).start();
 		try{
-			//InetAddress serverIP = InetAddress.getByName("82.156.245.74");
-			//InetAddress serverIP = InetAddress.getByName("39.106.89.66");
+			
 			InetAddress serverIP = InetAddress.getByName("localhost");
 			int port = 6666;
 			// 创建应该socket连接
