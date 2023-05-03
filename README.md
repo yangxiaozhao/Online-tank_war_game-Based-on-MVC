@@ -1,4 +1,4 @@
-# Online-tank_war_game-Based-on-MVC
+# TankWars_OnlineEdition_BasedOn_MVC
 
 Simulate classic stand-alone game: tank war. Based on MVC framework, using  Java network programming knowledge, achieved a simple online version of the tank war game
 
